@@ -16,4 +16,7 @@
     <string name="message_fragment">Message Fragment</string>
     <string name="chat_fragment">Chat Fragment</string>
     <string name="profile_fragment">Profile Fragment</string>
+    <string name="temp_not_supported">Temp is not supported</string>
+    <string name="humidity_not_supported">Humidity is not supported</string>
+    <string name="weather">Weather</string>
 </resources>
